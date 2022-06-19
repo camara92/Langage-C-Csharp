@@ -1,0 +1,15 @@
+D:\C-Sharp\DelegateDemo\bin\Debug\net6.0\DelegateDemo.exe
+D:\C-Sharp\DelegateDemo\bin\Debug\net6.0\DelegateDemo.deps.json
+D:\C-Sharp\DelegateDemo\bin\Debug\net6.0\DelegateDemo.runtimeconfig.json
+D:\C-Sharp\DelegateDemo\bin\Debug\net6.0\DelegateDemo.dll
+D:\C-Sharp\DelegateDemo\bin\Debug\net6.0\DelegateDemo.pdb
+D:\C-Sharp\DelegateDemo\obj\Debug\net6.0\DelegateDemo.csproj.AssemblyReference.cache
+D:\C-Sharp\DelegateDemo\obj\Debug\net6.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\DelegateDemo\obj\Debug\net6.0\DelegateDemo.AssemblyInfoInputs.cache
+D:\C-Sharp\DelegateDemo\obj\Debug\net6.0\DelegateDemo.AssemblyInfo.cs
+D:\C-Sharp\DelegateDemo\obj\Debug\net6.0\DelegateDemo.csproj.CoreCompileInputs.cache
+D:\C-Sharp\DelegateDemo\obj\Debug\net6.0\DelegateDemo.dll
+D:\C-Sharp\DelegateDemo\obj\Debug\net6.0\refint\DelegateDemo.dll
+D:\C-Sharp\DelegateDemo\obj\Debug\net6.0\DelegateDemo.pdb
+D:\C-Sharp\DelegateDemo\obj\Debug\net6.0\DelegateDemo.genruntimeconfig.cache
+D:\C-Sharp\DelegateDemo\obj\Debug\net6.0\ref\DelegateDemo.dll

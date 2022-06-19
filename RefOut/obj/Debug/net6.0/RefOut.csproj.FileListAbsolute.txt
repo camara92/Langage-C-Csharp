@@ -1,0 +1,15 @@
+D:\C-Sharp\RefOut\bin\Debug\net6.0\RefOut.exe
+D:\C-Sharp\RefOut\bin\Debug\net6.0\RefOut.deps.json
+D:\C-Sharp\RefOut\bin\Debug\net6.0\RefOut.runtimeconfig.json
+D:\C-Sharp\RefOut\bin\Debug\net6.0\RefOut.dll
+D:\C-Sharp\RefOut\bin\Debug\net6.0\RefOut.pdb
+D:\C-Sharp\RefOut\obj\Debug\net6.0\RefOut.csproj.AssemblyReference.cache
+D:\C-Sharp\RefOut\obj\Debug\net6.0\RefOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\RefOut\obj\Debug\net6.0\RefOut.AssemblyInfoInputs.cache
+D:\C-Sharp\RefOut\obj\Debug\net6.0\RefOut.AssemblyInfo.cs
+D:\C-Sharp\RefOut\obj\Debug\net6.0\RefOut.csproj.CoreCompileInputs.cache
+D:\C-Sharp\RefOut\obj\Debug\net6.0\RefOut.dll
+D:\C-Sharp\RefOut\obj\Debug\net6.0\refint\RefOut.dll
+D:\C-Sharp\RefOut\obj\Debug\net6.0\RefOut.pdb
+D:\C-Sharp\RefOut\obj\Debug\net6.0\RefOut.genruntimeconfig.cache
+D:\C-Sharp\RefOut\obj\Debug\net6.0\ref\RefOut.dll
