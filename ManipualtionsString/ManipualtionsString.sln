@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManipualtionsString", "ManipualtionsString.csproj", "{DF9E0DFC-8630-48D5-8663-86B3B053CDA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manipulations2", "..\Manipulations2\Manipulations2.csproj", "{D7FB6BFD-E719-4BF7-A048-7F2CEBF3749A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manipulations2", "..\Manipulations2\Manipulations2.csproj", "{D7FB6BFD-E719-4BF7-A048-7F2CEBF3749A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "..\Array\Array.csproj", "{727E2199-8DD8-446C-8446-A1E3B7F32036}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D7FB6BFD-E719-4BF7-A048-7F2CEBF3749A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7FB6BFD-E719-4BF7-A048-7F2CEBF3749A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7FB6BFD-E719-4BF7-A048-7F2CEBF3749A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{727E2199-8DD8-446C-8446-A1E3B7F32036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727E2199-8DD8-446C-8446-A1E3B7F32036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727E2199-8DD8-446C-8446-A1E3B7F32036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727E2199-8DD8-446C-8446-A1E3B7F32036}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

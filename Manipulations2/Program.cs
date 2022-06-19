@@ -13,7 +13,7 @@ namespace Manipulation
             }
 
             //Console.WriteLine(tabstr);
-            string str2 = string.Join("| ", tabstr);
+            string str2 = string.Join(" | ", tabstr);
             Console.WriteLine(str2);    
 
             Console.ReadLine(); 
