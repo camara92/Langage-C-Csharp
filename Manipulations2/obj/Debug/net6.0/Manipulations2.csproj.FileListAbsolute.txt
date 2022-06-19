@@ -1,0 +1,15 @@
+D:\C-Sharp\Langage-C-Csharp\Manipulations2\bin\Debug\net6.0\Manipulations2.exe
+D:\C-Sharp\Langage-C-Csharp\Manipulations2\bin\Debug\net6.0\Manipulations2.deps.json
+D:\C-Sharp\Langage-C-Csharp\Manipulations2\bin\Debug\net6.0\Manipulations2.runtimeconfig.json
+D:\C-Sharp\Langage-C-Csharp\Manipulations2\bin\Debug\net6.0\Manipulations2.dll
+D:\C-Sharp\Langage-C-Csharp\Manipulations2\bin\Debug\net6.0\Manipulations2.pdb
+D:\C-Sharp\Langage-C-Csharp\Manipulations2\obj\Debug\net6.0\Manipulations2.csproj.AssemblyReference.cache
+D:\C-Sharp\Langage-C-Csharp\Manipulations2\obj\Debug\net6.0\Manipulations2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Langage-C-Csharp\Manipulations2\obj\Debug\net6.0\Manipulations2.AssemblyInfoInputs.cache
+D:\C-Sharp\Langage-C-Csharp\Manipulations2\obj\Debug\net6.0\Manipulations2.AssemblyInfo.cs
+D:\C-Sharp\Langage-C-Csharp\Manipulations2\obj\Debug\net6.0\Manipulations2.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Langage-C-Csharp\Manipulations2\obj\Debug\net6.0\Manipulations2.dll
+D:\C-Sharp\Langage-C-Csharp\Manipulations2\obj\Debug\net6.0\refint\Manipulations2.dll
+D:\C-Sharp\Langage-C-Csharp\Manipulations2\obj\Debug\net6.0\Manipulations2.pdb
+D:\C-Sharp\Langage-C-Csharp\Manipulations2\obj\Debug\net6.0\Manipulations2.genruntimeconfig.cache
+D:\C-Sharp\Langage-C-Csharp\Manipulations2\obj\Debug\net6.0\ref\Manipulations2.dll

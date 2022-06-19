@@ -1,0 +1,15 @@
+D:\C-Sharp\Langage-C-Csharp\ManipualtionsString\bin\Debug\net6.0\ManipualtionsString.exe
+D:\C-Sharp\Langage-C-Csharp\ManipualtionsString\bin\Debug\net6.0\ManipualtionsString.deps.json
+D:\C-Sharp\Langage-C-Csharp\ManipualtionsString\bin\Debug\net6.0\ManipualtionsString.runtimeconfig.json
+D:\C-Sharp\Langage-C-Csharp\ManipualtionsString\bin\Debug\net6.0\ManipualtionsString.dll
+D:\C-Sharp\Langage-C-Csharp\ManipualtionsString\bin\Debug\net6.0\ManipualtionsString.pdb
+D:\C-Sharp\Langage-C-Csharp\ManipualtionsString\obj\Debug\net6.0\ManipualtionsString.csproj.AssemblyReference.cache
+D:\C-Sharp\Langage-C-Csharp\ManipualtionsString\obj\Debug\net6.0\ManipualtionsString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Langage-C-Csharp\ManipualtionsString\obj\Debug\net6.0\ManipualtionsString.AssemblyInfoInputs.cache
+D:\C-Sharp\Langage-C-Csharp\ManipualtionsString\obj\Debug\net6.0\ManipualtionsString.AssemblyInfo.cs
+D:\C-Sharp\Langage-C-Csharp\ManipualtionsString\obj\Debug\net6.0\ManipualtionsString.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Langage-C-Csharp\ManipualtionsString\obj\Debug\net6.0\ManipualtionsString.dll
+D:\C-Sharp\Langage-C-Csharp\ManipualtionsString\obj\Debug\net6.0\refint\ManipualtionsString.dll
+D:\C-Sharp\Langage-C-Csharp\ManipualtionsString\obj\Debug\net6.0\ManipualtionsString.pdb
+D:\C-Sharp\Langage-C-Csharp\ManipualtionsString\obj\Debug\net6.0\ManipualtionsString.genruntimeconfig.cache
+D:\C-Sharp\Langage-C-Csharp\ManipualtionsString\obj\Debug\net6.0\ref\ManipualtionsString.dll
