@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manipulations2", "..\Manipu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "..\Array\Array.csproj", "{727E2199-8DD8-446C-8446-A1E3B7F32036}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "..\POO\POO.csproj", "{9126626C-904D-4C9C-872F-2E51B774C22D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{727E2199-8DD8-446C-8446-A1E3B7F32036}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{727E2199-8DD8-446C-8446-A1E3B7F32036}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{727E2199-8DD8-446C-8446-A1E3B7F32036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9126626C-904D-4C9C-872F-2E51B774C22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9126626C-904D-4C9C-872F-2E51B774C22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9126626C-904D-4C9C-872F-2E51B774C22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9126626C-904D-4C9C-872F-2E51B774C22D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
