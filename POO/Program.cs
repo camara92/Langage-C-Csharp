@@ -6,7 +6,7 @@ namespace POO
     {
         static void Main(string[] args)
         {
-            Animal monAnimal = new Animal();
+            /*Animal monAnimal = new Animal();
             monAnimal.Age = 2;
             monAnimal.Nom = "Chat"; 
 
@@ -17,8 +17,11 @@ namespace POO
             monAnimal2.Age = 20;
             monAnimal.Nom = "Chien";
 
-            monAnimal.AfficheInfo(); 
+            monAnimal.AfficheInfo(); */
 
+            Animal Chien = new Animal("Blero", 5);
+            Animal chat = new Animal(); 
+            Chien.AfficheInfo(); 
             Console.ReadLine();
 
         }
