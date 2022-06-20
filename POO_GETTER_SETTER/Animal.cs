@@ -12,6 +12,9 @@ namespace POO_GETTER_SETTER
         private int _age;
 
         //créer des propriétés que sont les getters et setters 
+        public string NOM { get; set;
+        //faisable
+        }
         public string Nom
         {
             get {
