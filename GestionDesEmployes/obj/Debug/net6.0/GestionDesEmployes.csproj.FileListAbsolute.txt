@@ -1,0 +1,5 @@
+D:\C-Sharp\Langage-C-Csharp\GestionDesEmployes\obj\Debug\net6.0\GestionDesEmployes.csproj.AssemblyReference.cache
+D:\C-Sharp\Langage-C-Csharp\GestionDesEmployes\obj\Debug\net6.0\GestionDesEmployes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Langage-C-Csharp\GestionDesEmployes\obj\Debug\net6.0\GestionDesEmployes.AssemblyInfoInputs.cache
+D:\C-Sharp\Langage-C-Csharp\GestionDesEmployes\obj\Debug\net6.0\GestionDesEmployes.AssemblyInfo.cs
+D:\C-Sharp\Langage-C-Csharp\GestionDesEmployes\obj\Debug\net6.0\GestionDesEmployes.csproj.CoreCompileInputs.cache

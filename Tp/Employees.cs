@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GestionDesEmployes
+namespace Tp
 {
-    internal class Employe
+    internal class Employees
     {
+
         //déclaration des attributs 
         private int matricule;
         private string nom;
@@ -17,30 +18,41 @@ namespace GestionDesEmployes
         private double salaire;
 
         //constructeur pour les attributs 
-        public Employe(int matricule, string nom, string prenom, string dateNaissance, string dateEmbauche, double salaire)
+        public Employees(int matricule, string nom, string prenom, string dateNaissance, string dateEmbauche, double salaire)
         {
 
             this.matricule = matricule;
             this.nom = nom;
             this.prenom = prenom;
-            this.dateNaissance = dateNaissance; 
+            this.dateNaissance = dateNaissance;
             this.dateEmbauche = dateEmbauche;
             this.salaire = salaire;
         }
+
+        public Employees()
+        {
+            /* this.matricule = 0;
+             this.prenom = prenom;
+             this.nom = nom;
+             this.dateNaissance = dateNaissance;
+             this.dateEmbauche = dateEmbauche;*/
+
+        }
+
         //getters et setters de mes attributs 
 
         public void setMatricule(int matricule)
         {
-            this.matricule = matricule; 
+            this.matricule = matricule;
         }
         public void getMatricule()
         {
-            this.matricule =matricule;
+            this.matricule = matricule;
 
         }
         public void setNom(string nom)
         {
-            nom = nom; 
+            nom = nom;
         }
         public string getNom()
         {
@@ -81,12 +93,13 @@ namespace GestionDesEmployes
         //méthodes 
         public void AfficherInfoEmploye()
         {
-            Console.WriteLine("- Le matricule de l'employé est : " + getMatricule);
-            Console.WriteLine("- Le nom de l'employé est : " + getNom());
-            Console.WriteLine("- Le prénom de l'employé est : " + getPrenom());
-            Console.WriteLine("- Le nom de l'employé est : " + getDateNaissance());
-            Console.WriteLine("- Le nom de l'employé est : " + getDateEmbauche());
-            Console.WriteLine("- Le nom de l'employé est : " + getSalaire());
+            Console.WriteLine("- Le matricule de l'employé est : " + matricule);
+            Console.WriteLine("- Le nom de l'employé est : " + nom);
+            Console.WriteLine("- Le prénom de l'employé est : " + prenom);
+            Console.WriteLine("- Le nom de l'employé est : " + dateNaissance);
+            Console.WriteLine("- Le nom de l'employé est : " + dateEmbauche);
+            Console.WriteLine("- Le nom de l'employé est : " + salaire);
+            Console.WriteLine(" - Mon salire a augmenté de :" + AugmenterSalaire());
         }
         //ancienneté d'un salarié 
         public int DonnerAnciennete()
@@ -95,32 +108,35 @@ namespace GestionDesEmployes
             int n;
             n = Int32.Parse(getDateEmbauche());
             nbanneeAnciennete = 2022 - n;
-            return nbanneeAnciennete; 
+            return nbanneeAnciennete;
         }
         //nb annee ancienneté <5 ==> augmente de 2% de son salaire 
         //5<nb annee anciennete <=10 => +5% 
         //nb annee anciennete >10 => augmente de 10%
         public double AugmenterSalaire()
         {
-            int nbanneeanciennete;
+            int nbanneeanciennete =3;
             double salaire;
-            nbanneeanciennete = DonnerAncien
-            {nete();
-            if (nbanneeanciennete < 5)
-                salaire = getSalaire() + getSalaire() * 2 / 100; 
-            }                               
-            else if (nbanneeanciennete >=5 && nbanneeanciennete<10)
+            nbanneeanciennete = DonnerAnciennete();
             {
-                salaire = getSalaire() + getSalaire() * 5/ 100;
+
+                if (nbanneeanciennete < 5)
+                {
+                    salaire = getSalaire() + getSalaire() * 2 / 100;
+                }
+                else if (nbanneeanciennete >= 5 && nbanneeanciennete < 10)
+                {
+                    salaire = getSalaire() + getSalaire() * 5 / 100;
+                }
+                else
+                {
+                    salaire = getSalaire() + getSalaire() * 10 / 100;
+                }
+                setSalaire(salaire);
+                return salaire;
+
             }
-            else
-            {
-                salaire = getSalaire() + getSalaire() * 10/ 100;
-            }
-            setSalaire(salaire); 
-            return salaire; 
 
         }
-
     }
 }

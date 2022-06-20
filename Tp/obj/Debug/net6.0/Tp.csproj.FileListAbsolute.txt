@@ -1,0 +1,15 @@
+D:\C-Sharp\Langage-C-Csharp\Tp\bin\Debug\net6.0\Tp.exe
+D:\C-Sharp\Langage-C-Csharp\Tp\bin\Debug\net6.0\Tp.deps.json
+D:\C-Sharp\Langage-C-Csharp\Tp\bin\Debug\net6.0\Tp.runtimeconfig.json
+D:\C-Sharp\Langage-C-Csharp\Tp\bin\Debug\net6.0\Tp.dll
+D:\C-Sharp\Langage-C-Csharp\Tp\bin\Debug\net6.0\Tp.pdb
+D:\C-Sharp\Langage-C-Csharp\Tp\obj\Debug\net6.0\Tp.csproj.AssemblyReference.cache
+D:\C-Sharp\Langage-C-Csharp\Tp\obj\Debug\net6.0\Tp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Langage-C-Csharp\Tp\obj\Debug\net6.0\Tp.AssemblyInfoInputs.cache
+D:\C-Sharp\Langage-C-Csharp\Tp\obj\Debug\net6.0\Tp.AssemblyInfo.cs
+D:\C-Sharp\Langage-C-Csharp\Tp\obj\Debug\net6.0\Tp.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Langage-C-Csharp\Tp\obj\Debug\net6.0\Tp.dll
+D:\C-Sharp\Langage-C-Csharp\Tp\obj\Debug\net6.0\refint\Tp.dll
+D:\C-Sharp\Langage-C-Csharp\Tp\obj\Debug\net6.0\Tp.pdb
+D:\C-Sharp\Langage-C-Csharp\Tp\obj\Debug\net6.0\Tp.genruntimeconfig.cache
+D:\C-Sharp\Langage-C-Csharp\Tp\obj\Debug\net6.0\ref\Tp.dll

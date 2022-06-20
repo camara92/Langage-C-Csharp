@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GestionDesEmployes
 {
-    internal class Employe
+    internal class Employes
     {
         //déclaration des attributs 
         private int matricule;
@@ -17,30 +17,41 @@ namespace GestionDesEmployes
         private double salaire;
 
         //constructeur pour les attributs 
-        public Employe(int matricule, string nom, string prenom, string dateNaissance, string dateEmbauche, double salaire)
+        public Employes(int matricule, string nom, string prenom, string dateNaissance, string dateEmbauche, double salaire)
         {
 
             this.matricule = matricule;
             this.nom = nom;
             this.prenom = prenom;
-            this.dateNaissance = dateNaissance; 
+            this.dateNaissance = dateNaissance;
             this.dateEmbauche = dateEmbauche;
             this.salaire = salaire;
         }
+
+        public Employes()
+        {
+           /* this.matricule = 0;
+            this.prenom = prenom;
+            this.nom = nom;
+            this.dateNaissance = dateNaissance;
+            this.dateEmbauche = dateEmbauche;*/
+            
+        }
+
         //getters et setters de mes attributs 
 
         public void setMatricule(int matricule)
         {
-            this.matricule = matricule; 
+            this.matricule = matricule;
         }
         public void getMatricule()
         {
-            this.matricule =matricule;
+            this.matricule = matricule;
 
         }
         public void setNom(string nom)
         {
-            nom = nom; 
+            nom = nom;
         }
         public string getNom()
         {
@@ -95,7 +106,7 @@ namespace GestionDesEmployes
             int n;
             n = Int32.Parse(getDateEmbauche());
             nbanneeAnciennete = 2022 - n;
-            return nbanneeAnciennete; 
+            return nbanneeAnciennete;
         }
         //nb annee ancienneté <5 ==> augmente de 2% de son salaire 
         //5<nb annee anciennete <=10 => +5% 
@@ -104,23 +115,26 @@ namespace GestionDesEmployes
         {
             int nbanneeanciennete;
             double salaire;
-            nbanneeanciennete = DonnerAncien
-            {nete();
-            if (nbanneeanciennete < 5)
-                salaire = getSalaire() + getSalaire() * 2 / 100; 
-            }                               
-            else if (nbanneeanciennete >=5 && nbanneeanciennete<10)
+            nbanneeanciennete = DonnerAnciennete();
             {
-                salaire = getSalaire() + getSalaire() * 5/ 100;
+
+                if (nbanneeanciennete < 5)
+                {
+                    salaire = getSalaire() + getSalaire() * 2 / 100;
+                }
+                else if (nbanneeanciennete >= 5 && nbanneeanciennete < 10)
+                {
+                    salaire = getSalaire() + getSalaire() * 5 / 100;
+                }
+                else
+                {
+                    salaire = getSalaire() + getSalaire() * 10 / 100;
+                }
+                setSalaire(salaire);
+                return salaire;
+
             }
-            else
-            {
-                salaire = getSalaire() + getSalaire() * 10/ 100;
-            }
-            setSalaire(salaire); 
-            return salaire; 
 
         }
-
     }
 }
