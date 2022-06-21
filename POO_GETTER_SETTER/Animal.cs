@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace POO_GETTER_SETTER
 {
-    internal class Animale
+    internal class Animal
     {   //si on ne spécfie rien il est en private 
         private string _nom;
         private int _age;
@@ -45,7 +45,7 @@ namespace POO_GETTER_SETTER
                 }
             }
         }
-        public Animale(string Nom, int Age)
+        public Animal(string Nom, int Age)
         {
             this._nom = Nom;
             this._age = Age;

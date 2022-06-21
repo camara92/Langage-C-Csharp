@@ -96,10 +96,10 @@ namespace Tp
             Console.WriteLine("- Le matricule de l'employé est : " + matricule);
             Console.WriteLine("- Le nom de l'employé est : " + nom);
             Console.WriteLine("- Le prénom de l'employé est : " + prenom);
-            Console.WriteLine("- Le nom de l'employé est : " + dateNaissance);
-            Console.WriteLine("- Le nom de l'employé est : " + dateEmbauche);
-            Console.WriteLine("- Le nom de l'employé est : " + salaire);
-            Console.WriteLine(" - Mon salire a augmenté de :" + AugmenterSalaire());
+            Console.WriteLine("- La date de naissance de l'employé est : " + dateNaissance);
+            Console.WriteLine("- La date de l'embauche de l'employé est : " + dateEmbauche);
+            Console.WriteLine("- L'employé a un salaire de : " + salaire);
+            Console.WriteLine("Le salaire de "+prenom+" a augmenté de :" + AugmenterSalaire());
         }
         //ancienneté d'un salarié 
         public int DonnerAnciennete()

@@ -5,7 +5,7 @@ namespace POO_GETTER_SETTER
     {
         static void Main(string[] args)
         {
-            Animale ani1 = new Animale("REX", 4);
+            Animal ani1 = new Animal("REX", 4);
             ani1.Nom = "Bridouille";
             Console.WriteLine(ani1.Nom); 
 
