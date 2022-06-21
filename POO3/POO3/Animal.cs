@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace POO3
 {
+    //sealed
     internal class Animal
     {
         //les attributs 
@@ -25,10 +26,10 @@ namespace POO3
        
 
         /*public string Nom 
-{ 
-   //on ne peut plus modifier l'information mmais visible dans l'affichage 
-   get; private set; 
-}*/
+        { 
+        //on ne peut plus modifier l'information mmais visible dans l'affichage 
+          get; private set; 
+        }*/
         //propriétés 
         public string Nom
        {
@@ -71,8 +72,8 @@ namespace POO3
 
 
         //méthodes 
-        public void AfficheInfo()
-        {
+        public virtual void AfficheInfo()
+        {   //methode virtual permt de substituer une class 
             Console.WriteLine("Je suis "+nom);
             Console.WriteLine("J'ai " + age + "an(s).");
             

@@ -1,0 +1,15 @@
+D:\C-Sharp\Langage-C-Csharp\POO3\POO4\bin\Debug\net6.0\POO4.exe
+D:\C-Sharp\Langage-C-Csharp\POO3\POO4\bin\Debug\net6.0\POO4.deps.json
+D:\C-Sharp\Langage-C-Csharp\POO3\POO4\bin\Debug\net6.0\POO4.runtimeconfig.json
+D:\C-Sharp\Langage-C-Csharp\POO3\POO4\bin\Debug\net6.0\POO4.dll
+D:\C-Sharp\Langage-C-Csharp\POO3\POO4\bin\Debug\net6.0\POO4.pdb
+D:\C-Sharp\Langage-C-Csharp\POO3\POO4\obj\Debug\net6.0\POO4.csproj.AssemblyReference.cache
+D:\C-Sharp\Langage-C-Csharp\POO3\POO4\obj\Debug\net6.0\POO4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Langage-C-Csharp\POO3\POO4\obj\Debug\net6.0\POO4.AssemblyInfoInputs.cache
+D:\C-Sharp\Langage-C-Csharp\POO3\POO4\obj\Debug\net6.0\POO4.AssemblyInfo.cs
+D:\C-Sharp\Langage-C-Csharp\POO3\POO4\obj\Debug\net6.0\POO4.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Langage-C-Csharp\POO3\POO4\obj\Debug\net6.0\POO4.dll
+D:\C-Sharp\Langage-C-Csharp\POO3\POO4\obj\Debug\net6.0\refint\POO4.dll
+D:\C-Sharp\Langage-C-Csharp\POO3\POO4\obj\Debug\net6.0\POO4.pdb
+D:\C-Sharp\Langage-C-Csharp\POO3\POO4\obj\Debug\net6.0\POO4.genruntimeconfig.cache
+D:\C-Sharp\Langage-C-Csharp\POO3\POO4\obj\Debug\net6.0\ref\POO4.dll

@@ -15,7 +15,7 @@ namespace POO3
         {
             //il hérite les propriétés de la classe animale 
             this.eauFroide = eauFroide;
-            Console.WriteLine("Je vis dans des zones appelées : " + eauFroide);
+           // Console.WriteLine("Je vis dans des zones appelées : " + eauFroide);
         }
         //methodes 
         public void Parler()

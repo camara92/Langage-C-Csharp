@@ -15,7 +15,7 @@ namespace POO3
         {
             //il hérite les propriétés de la classe animale 
             this.NrTatouage = NrTatouage;
-            Console.WriteLine("Mon numéro de tatouage est le : " + NrTatouage);
+           // Console.WriteLine("Mon numéro de tatouage est le : " + NrTatouage);
         }
         //methodes 
         public void Parler()
@@ -26,7 +26,15 @@ namespace POO3
         {
             //Nom ici hérité de animal Class 
 
-            Console.WriteLine(Nom+" marche avec ses 4 pattes. ");
+            //Console.WriteLine(Nom+" marche avec ses 4 pattes. ");
+        }
+        //un objet chien instancié mais un objet animal utilisé 
+        //new par override : new tient pas compte 
+        public virtual void AfficheInfo()
+        {
+            //base.AfficheInfo();
+            Console.WriteLine("Je suis un chien, je me nomme " + Nom);
+            Console.WriteLine("Moi c'est "+Nom + " et j'ai "+Age+ "an(s).");
         }
 
 
