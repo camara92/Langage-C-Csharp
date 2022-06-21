@@ -6,12 +6,14 @@ namespace POO3
         static void Main(string[] args)
         {
 
-            Animal monAnimal = new Animal("britus", 2);
-            /*monAnimal.Nom = "Bengo";
-            monAnimal.Age = 3;
-            Console.WriteLine("Nom de l'animale est : " + monAnimal.Nom);
-            Console.WriteLine("L'age de l"+ monAnimal.Nom + " est : " + monAnimal.Age);*/
-            monAnimal.AfficheInfo(); 
+            Animal Chien1 = new Chien("britus", 2, 151525);
+            Animal Poisson1 = new Poisson("Saumon de Bali", 5, true);
+          
+
+            Chien1.AfficheInfo();
+         
+            Poisson1.AfficheInfo();
+            //Chien1.Parler();
             Console.ReadLine();
 
             //utilisation de la méthode 

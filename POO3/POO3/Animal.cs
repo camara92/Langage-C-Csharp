@@ -9,8 +9,8 @@ namespace POO3
     internal class Animal
     {
         //les attributs 
-        public string Nom;
-        public int Age;
+        private string nom;
+        private int age;
 
         //constructeur par défaut 
         public Animal()
@@ -22,10 +22,50 @@ namespace POO3
 
         }
 
+       
+
+        /*public string Nom 
+{ 
+   //on ne peut plus modifier l'information mmais visible dans l'affichage 
+   get; private set; 
+}*/
+        //propriétés 
+        public string Nom
+       {
+            get { 
+                //recupérer 
+                return nom;}
+            set {
+                
+                //_nom = value;
+            
+            }
+        }
+        public int Age
+        {
+            get
+            {
+                //recupérer 
+                return age;
+            }
+            set
+            {
+
+                if (value > 10)
+                {
+                    age = value;
+                }
+                else
+                {
+                    Console.WriteLine("L'age doit être supérieur à  10");
+                }
+
+            }
+        }
         public Animal(string Nom, int Age)
         {
-            this.Nom = Nom;
-            this.Age = Age;
+            this.nom = Nom;
+            this.age = Age;
         }
        
 
@@ -33,8 +73,9 @@ namespace POO3
         //méthodes 
         public void AfficheInfo()
         {
-            Console.WriteLine("Je suis "+Nom);
-            Console.WriteLine("J'ai " + Age); 
+            Console.WriteLine("Je suis "+nom);
+            Console.WriteLine("J'ai " + age + "an(s).");
+            
         }
     }
 }
