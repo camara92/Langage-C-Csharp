@@ -8,17 +8,17 @@ namespace Persistance_des_donnees
     {
         static void Main(string[] args)
         {
-            /*using(StreamWriter sw =new StreamWriter("d:\\data\\test.txt"))
-            {
+            using(StreamWriter sw =new StreamWriter("d:\\data\\test.txt"))
+            {   //ajout du text dans fichier txt 
                 sw.WriteLine("1ère ligne");
-            }*/
-           /* using (StreamWriter sw = File.AppendText("d:\\data\\test.txt"))
+            }
+            using (StreamWriter sw = File.AppendText("d:\\data\\test.txt"))
             {
                 //Chaque exécution sera ajouté au fichier 
                 sw.WriteLine("Bonjour est ajouté ");
-            }*/
+            }
 
-           /*using (StreamReader sr= new StreamReader("d:\\data\\test.txt"))
+           using (StreamReader sr= new StreamReader("d:\\data\\test.txt"))
             {
                 string line = null;
                 line = sr.ReadLine(); 
@@ -28,7 +28,7 @@ namespace Persistance_des_donnees
                     line = sr.ReadLine();
                 }
             }
-          */
+          
            using (StreamReader sr= new StreamReader("d:\\data\\test.txt"))
             {   //lire tout 
                 string file = sr.ReadToEnd();
