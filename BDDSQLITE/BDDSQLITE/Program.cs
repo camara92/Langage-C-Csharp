@@ -10,7 +10,15 @@ namespace Base_de_donnees_sqlite
         {
             //créer la bdd 
             string bddpath = "d:\\data\\bdd.sqlite";
-            if (!File.Exists(bddpath)) CreateBdd(); 
+            if (!File.Exists(bddpath)) CreateBdd();
+
+            AddData("Billie", "Don");
+            AddData("Soufiane", "Donnald");
+            AddData("Jonie", "Steve");
+            AddData("Billie", "Don");
+            AddData("Billie", "Don");
+            AddData("Billie", "Don");
+            AddData("Billie", "Don");
             void CreateBdd()
             {
                 SQLiteConnection.CreateFile(bddpath);   
@@ -23,7 +31,20 @@ namespace Base_de_donnees_sqlite
                 command.ExecuteNonQuery();
                 con.Close(); 
             }
-            
+            //ajout de données 
+            void AddData(string n , string p)
+            {
+                //connexion à la bdd 
+                SQLiteConnection con = new SQLiteConnection("Data Source=d:\\data\\bdd.sqlite;Version=3;");
+                con.Open();
+                //string sql = "INSERT INTO clients(nom, prenom) VALUES('CAMARA','Daouda')"; 
+                string sql = "INSERT INTO clients(nom, prenom) VALUES('" +n +"','" + p +"')";
+                SQLiteCommand command = new SQLiteCommand(sql, con);
+                command.ExecuteNonQuery();
+                con.Close(); 
+
+            }
+
         }
     }
 }
