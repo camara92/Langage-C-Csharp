@@ -1,0 +1,15 @@
+D:\C-Sharp\Langage-C-Csharp\TPRECTANGLE\bin\Debug\net6.0\TPRECTANGLE.exe
+D:\C-Sharp\Langage-C-Csharp\TPRECTANGLE\bin\Debug\net6.0\TPRECTANGLE.deps.json
+D:\C-Sharp\Langage-C-Csharp\TPRECTANGLE\bin\Debug\net6.0\TPRECTANGLE.runtimeconfig.json
+D:\C-Sharp\Langage-C-Csharp\TPRECTANGLE\bin\Debug\net6.0\TPRECTANGLE.dll
+D:\C-Sharp\Langage-C-Csharp\TPRECTANGLE\bin\Debug\net6.0\TPRECTANGLE.pdb
+D:\C-Sharp\Langage-C-Csharp\TPRECTANGLE\obj\Debug\net6.0\TPRECTANGLE.csproj.AssemblyReference.cache
+D:\C-Sharp\Langage-C-Csharp\TPRECTANGLE\obj\Debug\net6.0\TPRECTANGLE.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Langage-C-Csharp\TPRECTANGLE\obj\Debug\net6.0\TPRECTANGLE.AssemblyInfoInputs.cache
+D:\C-Sharp\Langage-C-Csharp\TPRECTANGLE\obj\Debug\net6.0\TPRECTANGLE.AssemblyInfo.cs
+D:\C-Sharp\Langage-C-Csharp\TPRECTANGLE\obj\Debug\net6.0\TPRECTANGLE.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Langage-C-Csharp\TPRECTANGLE\obj\Debug\net6.0\TPRECTANGLE.dll
+D:\C-Sharp\Langage-C-Csharp\TPRECTANGLE\obj\Debug\net6.0\refint\TPRECTANGLE.dll
+D:\C-Sharp\Langage-C-Csharp\TPRECTANGLE\obj\Debug\net6.0\TPRECTANGLE.pdb
+D:\C-Sharp\Langage-C-Csharp\TPRECTANGLE\obj\Debug\net6.0\TPRECTANGLE.genruntimeconfig.cache
+D:\C-Sharp\Langage-C-Csharp\TPRECTANGLE\obj\Debug\net6.0\ref\TPRECTANGLE.dll
