@@ -36,6 +36,7 @@
             this.radioButton5 = new System.Windows.Forms.RadioButton();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.radioButton6 = new System.Windows.Forms.RadioButton();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -106,12 +107,13 @@
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.Blue;
+            this.groupBox1.Controls.Add(this.radioButton6);
             this.groupBox1.Controls.Add(this.radioButton1);
             this.groupBox1.Controls.Add(this.radioButton2);
             this.groupBox1.Controls.Add(this.radioButton3);
             this.groupBox1.Location = new System.Drawing.Point(339, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(215, 198);
+            this.groupBox1.Size = new System.Drawing.Size(215, 257);
             this.groupBox1.TabIndex = 7;
             this.groupBox1.TabStop = false;
             // 
@@ -125,6 +127,17 @@
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Choix 2";
             this.radioButton2.UseVisualStyleBackColor = true;
+            // 
+            // radioButton6
+            // 
+            this.radioButton6.AutoSize = true;
+            this.radioButton6.Location = new System.Drawing.Point(21, 205);
+            this.radioButton6.Name = "radioButton6";
+            this.radioButton6.Size = new System.Drawing.Size(71, 20);
+            this.radioButton6.TabIndex = 5;
+            this.radioButton6.TabStop = true;
+            this.radioButton6.Text = "Choix 4";
+            this.radioButton6.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -155,6 +168,7 @@
         private System.Windows.Forms.RadioButton radioButton5;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.RadioButton radioButton2;
+        private System.Windows.Forms.RadioButton radioButton6;
     }
 }
 
