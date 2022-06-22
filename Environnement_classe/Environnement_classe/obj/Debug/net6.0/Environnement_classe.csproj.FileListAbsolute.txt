@@ -1,0 +1,15 @@
+D:\C-Sharp\Langage-C-Csharp\Environnement_classe\Environnement_classe\bin\Debug\net6.0\Environnement_classe.exe
+D:\C-Sharp\Langage-C-Csharp\Environnement_classe\Environnement_classe\bin\Debug\net6.0\Environnement_classe.deps.json
+D:\C-Sharp\Langage-C-Csharp\Environnement_classe\Environnement_classe\bin\Debug\net6.0\Environnement_classe.runtimeconfig.json
+D:\C-Sharp\Langage-C-Csharp\Environnement_classe\Environnement_classe\bin\Debug\net6.0\Environnement_classe.dll
+D:\C-Sharp\Langage-C-Csharp\Environnement_classe\Environnement_classe\bin\Debug\net6.0\Environnement_classe.pdb
+D:\C-Sharp\Langage-C-Csharp\Environnement_classe\Environnement_classe\obj\Debug\net6.0\Environnement_classe.csproj.AssemblyReference.cache
+D:\C-Sharp\Langage-C-Csharp\Environnement_classe\Environnement_classe\obj\Debug\net6.0\Environnement_classe.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Langage-C-Csharp\Environnement_classe\Environnement_classe\obj\Debug\net6.0\Environnement_classe.AssemblyInfoInputs.cache
+D:\C-Sharp\Langage-C-Csharp\Environnement_classe\Environnement_classe\obj\Debug\net6.0\Environnement_classe.AssemblyInfo.cs
+D:\C-Sharp\Langage-C-Csharp\Environnement_classe\Environnement_classe\obj\Debug\net6.0\Environnement_classe.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Langage-C-Csharp\Environnement_classe\Environnement_classe\obj\Debug\net6.0\Environnement_classe.dll
+D:\C-Sharp\Langage-C-Csharp\Environnement_classe\Environnement_classe\obj\Debug\net6.0\refint\Environnement_classe.dll
+D:\C-Sharp\Langage-C-Csharp\Environnement_classe\Environnement_classe\obj\Debug\net6.0\Environnement_classe.pdb
+D:\C-Sharp\Langage-C-Csharp\Environnement_classe\Environnement_classe\obj\Debug\net6.0\Environnement_classe.genruntimeconfig.cache
+D:\C-Sharp\Langage-C-Csharp\Environnement_classe\Environnement_classe\obj\Debug\net6.0\ref\Environnement_classe.dll

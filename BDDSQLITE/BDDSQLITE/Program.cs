@@ -74,11 +74,20 @@ namespace Base_de_donnees_sqlite
                 SQLiteDataReader dr = command.ExecuteReader();
                 dr.Read();
                 Console.WriteLine("Prénom : " + dr.GetString(0));
-            
-
-
             }
+            //suppression des datas 
 
+            /*void DeletePrenom(string n, string p)
+            {
+                SQLiteConnection con = new SQLiteConnection("Data Source=d:\\data\\bdd.sqlite;Version=3;");
+                con.Open();
+
+                string sql = "DELETE FROM clients WHERE prenom ='Daouda'";
+                SQLiteCommand command = new SQLiteCommand(sql, con);
+                SQLiteDataReader dr = command.ExecuteReader();
+                dr.Read();
+                Console.WriteLine("Prénom : " + dr.GetString(0));
+            }*/
         }
     }
 }
