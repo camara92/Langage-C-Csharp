@@ -1,0 +1,11 @@
+D:\C-Sharp\Langage-C-Csharp\ControleListBox\ControleListBox\bin\Debug\ControleListBox.exe.config
+D:\C-Sharp\Langage-C-Csharp\ControleListBox\ControleListBox\bin\Debug\ControleListBox.exe
+D:\C-Sharp\Langage-C-Csharp\ControleListBox\ControleListBox\bin\Debug\ControleListBox.pdb
+D:\C-Sharp\Langage-C-Csharp\ControleListBox\ControleListBox\obj\Debug\ControleListBox.csproj.AssemblyReference.cache
+D:\C-Sharp\Langage-C-Csharp\ControleListBox\ControleListBox\obj\Debug\ControleListBox.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\Langage-C-Csharp\ControleListBox\ControleListBox\obj\Debug\ControleListBox.Form1.resources
+D:\C-Sharp\Langage-C-Csharp\ControleListBox\ControleListBox\obj\Debug\ControleListBox.Properties.Resources.resources
+D:\C-Sharp\Langage-C-Csharp\ControleListBox\ControleListBox\obj\Debug\ControleListBox.csproj.GenerateResource.cache
+D:\C-Sharp\Langage-C-Csharp\ControleListBox\ControleListBox\obj\Debug\ControleListBox.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Langage-C-Csharp\ControleListBox\ControleListBox\obj\Debug\ControleListBox.exe
+D:\C-Sharp\Langage-C-Csharp\ControleListBox\ControleListBox\obj\Debug\ControleListBox.pdb
