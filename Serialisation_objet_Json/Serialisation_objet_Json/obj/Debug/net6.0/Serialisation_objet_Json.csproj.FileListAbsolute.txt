@@ -1,0 +1,15 @@
+D:\C-Sharp\Langage-C-Csharp\Serialisation_objet_Json\Serialisation_objet_Json\bin\Debug\net6.0\Serialisation_objet_Json.exe
+D:\C-Sharp\Langage-C-Csharp\Serialisation_objet_Json\Serialisation_objet_Json\bin\Debug\net6.0\Serialisation_objet_Json.deps.json
+D:\C-Sharp\Langage-C-Csharp\Serialisation_objet_Json\Serialisation_objet_Json\bin\Debug\net6.0\Serialisation_objet_Json.runtimeconfig.json
+D:\C-Sharp\Langage-C-Csharp\Serialisation_objet_Json\Serialisation_objet_Json\bin\Debug\net6.0\Serialisation_objet_Json.dll
+D:\C-Sharp\Langage-C-Csharp\Serialisation_objet_Json\Serialisation_objet_Json\bin\Debug\net6.0\Serialisation_objet_Json.pdb
+D:\C-Sharp\Langage-C-Csharp\Serialisation_objet_Json\Serialisation_objet_Json\obj\Debug\net6.0\Serialisation_objet_Json.csproj.AssemblyReference.cache
+D:\C-Sharp\Langage-C-Csharp\Serialisation_objet_Json\Serialisation_objet_Json\obj\Debug\net6.0\Serialisation_objet_Json.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Langage-C-Csharp\Serialisation_objet_Json\Serialisation_objet_Json\obj\Debug\net6.0\Serialisation_objet_Json.AssemblyInfoInputs.cache
+D:\C-Sharp\Langage-C-Csharp\Serialisation_objet_Json\Serialisation_objet_Json\obj\Debug\net6.0\Serialisation_objet_Json.AssemblyInfo.cs
+D:\C-Sharp\Langage-C-Csharp\Serialisation_objet_Json\Serialisation_objet_Json\obj\Debug\net6.0\Serialisation_objet_Json.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Langage-C-Csharp\Serialisation_objet_Json\Serialisation_objet_Json\obj\Debug\net6.0\Serialisation_objet_Json.dll
+D:\C-Sharp\Langage-C-Csharp\Serialisation_objet_Json\Serialisation_objet_Json\obj\Debug\net6.0\refint\Serialisation_objet_Json.dll
+D:\C-Sharp\Langage-C-Csharp\Serialisation_objet_Json\Serialisation_objet_Json\obj\Debug\net6.0\Serialisation_objet_Json.pdb
+D:\C-Sharp\Langage-C-Csharp\Serialisation_objet_Json\Serialisation_objet_Json\obj\Debug\net6.0\Serialisation_objet_Json.genruntimeconfig.cache
+D:\C-Sharp\Langage-C-Csharp\Serialisation_objet_Json\Serialisation_objet_Json\obj\Debug\net6.0\ref\Serialisation_objet_Json.dll
