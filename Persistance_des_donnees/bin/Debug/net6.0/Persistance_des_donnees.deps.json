@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Persistance_des_donnees/1.0.0": {
+        "runtime": {
+          "Persistance_des_donnees.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Persistance_des_donnees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

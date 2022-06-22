@@ -1,0 +1,15 @@
+D:\C-Sharp\Langage-C-Csharp\Persistance_des_donnees\bin\Debug\net6.0\Persistance_des_donnees.exe
+D:\C-Sharp\Langage-C-Csharp\Persistance_des_donnees\bin\Debug\net6.0\Persistance_des_donnees.deps.json
+D:\C-Sharp\Langage-C-Csharp\Persistance_des_donnees\bin\Debug\net6.0\Persistance_des_donnees.runtimeconfig.json
+D:\C-Sharp\Langage-C-Csharp\Persistance_des_donnees\bin\Debug\net6.0\Persistance_des_donnees.dll
+D:\C-Sharp\Langage-C-Csharp\Persistance_des_donnees\bin\Debug\net6.0\Persistance_des_donnees.pdb
+D:\C-Sharp\Langage-C-Csharp\Persistance_des_donnees\obj\Debug\net6.0\Persistance_des_donnees.csproj.AssemblyReference.cache
+D:\C-Sharp\Langage-C-Csharp\Persistance_des_donnees\obj\Debug\net6.0\Persistance_des_donnees.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Langage-C-Csharp\Persistance_des_donnees\obj\Debug\net6.0\Persistance_des_donnees.AssemblyInfoInputs.cache
+D:\C-Sharp\Langage-C-Csharp\Persistance_des_donnees\obj\Debug\net6.0\Persistance_des_donnees.AssemblyInfo.cs
+D:\C-Sharp\Langage-C-Csharp\Persistance_des_donnees\obj\Debug\net6.0\Persistance_des_donnees.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Langage-C-Csharp\Persistance_des_donnees\obj\Debug\net6.0\Persistance_des_donnees.dll
+D:\C-Sharp\Langage-C-Csharp\Persistance_des_donnees\obj\Debug\net6.0\refint\Persistance_des_donnees.dll
+D:\C-Sharp\Langage-C-Csharp\Persistance_des_donnees\obj\Debug\net6.0\Persistance_des_donnees.pdb
+D:\C-Sharp\Langage-C-Csharp\Persistance_des_donnees\obj\Debug\net6.0\Persistance_des_donnees.genruntimeconfig.cache
+D:\C-Sharp\Langage-C-Csharp\Persistance_des_donnees\obj\Debug\net6.0\ref\Persistance_des_donnees.dll
