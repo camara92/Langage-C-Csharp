@@ -12,13 +12,16 @@ namespace Base_de_donnees_sqlite
             string bddpath = "d:\\data\\bdd.sqlite";
             if (!File.Exists(bddpath)) CreateBdd();
 
-            AddData("Billie", "Don");
-            AddData("Soufiane", "Donnald");
-            AddData("Jonie", "Steve");
-            AddData("Billie", "Don");
-            AddData("Billie", "Don");
-            AddData("Billie", "Don");
-            AddData("Billie", "Don");
+            /* AddData("Billie", "Don");
+             AddData("Soufiane", "Donnald");
+             AddData("Jonie", "Steve");
+             AddData("Billie", "Don");
+             AddData("Billie", "Don");
+             AddData("Billie", "Don");
+             AddData("Billie", "Don");*/
+
+            ReadPrenom("CAMARA"); 
+            //ReadAllData(); //lire 
             void CreateBdd()
             {
                 SQLiteConnection.CreateFile(bddpath);   
@@ -42,6 +45,37 @@ namespace Base_de_donnees_sqlite
                 SQLiteCommand command = new SQLiteCommand(sql, con);
                 command.ExecuteNonQuery();
                 con.Close(); 
+
+            }
+            //lire les tables en bdd 
+            void ReadAllData()
+            {
+                SQLiteConnection con = new SQLiteConnection("Data Source=d:\\data\\bdd.sqlite;Version=3;");
+                con.Open();
+                string sql = "SELECT * FROM clients";
+                SQLiteCommand command = new SQLiteCommand(sql, con); 
+                SQLiteDataReader dr = command.ExecuteReader();
+                dr.Read(); //un seul 
+                while (dr.Read())
+                {
+                    Console.Write("Nom : " + dr.GetString(0)); 
+                    Console.WriteLine(" Prénom : "+ dr.GetString(1));
+                }
+
+            }
+            //Lire prénom en fonction du nom 
+            void ReadPrenom(string n)
+            {
+                SQLiteConnection con = new SQLiteConnection("Data Source=d:\\data\\bdd.sqlite;Version=3;");
+                con.Open();
+
+                string sql = "SELECT prenom FROM clients WHERE nom = '" + n + "'";
+                SQLiteCommand command = new SQLiteCommand(sql, con);
+                SQLiteDataReader dr = command.ExecuteReader();
+                dr.Read();
+                Console.WriteLine("Prénom : " + dr.GetString(0));
+            
+
 
             }
 
