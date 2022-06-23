@@ -1,0 +1,11 @@
+D:\C-Sharp\Langage-C-Csharp\OpenFileDialog\OpenFileDialog\bin\Debug\OpenFileDialog.exe.config
+D:\C-Sharp\Langage-C-Csharp\OpenFileDialog\OpenFileDialog\bin\Debug\OpenFileDialog.exe
+D:\C-Sharp\Langage-C-Csharp\OpenFileDialog\OpenFileDialog\bin\Debug\OpenFileDialog.pdb
+D:\C-Sharp\Langage-C-Csharp\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.AssemblyReference.cache
+D:\C-Sharp\Langage-C-Csharp\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\Langage-C-Csharp\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.Form1.resources
+D:\C-Sharp\Langage-C-Csharp\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.Properties.Resources.resources
+D:\C-Sharp\Langage-C-Csharp\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.GenerateResource.cache
+D:\C-Sharp\Langage-C-Csharp\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Langage-C-Csharp\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.exe
+D:\C-Sharp\Langage-C-Csharp\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.pdb
