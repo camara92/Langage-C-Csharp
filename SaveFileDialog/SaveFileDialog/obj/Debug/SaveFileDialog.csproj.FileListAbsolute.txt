@@ -1,0 +1,11 @@
+D:\C-Sharp\Langage-C-Csharp\SaveFileDialog\SaveFileDialog\bin\Debug\SaveFileDialog.exe.config
+D:\C-Sharp\Langage-C-Csharp\SaveFileDialog\SaveFileDialog\bin\Debug\SaveFileDialog.exe
+D:\C-Sharp\Langage-C-Csharp\SaveFileDialog\SaveFileDialog\bin\Debug\SaveFileDialog.pdb
+D:\C-Sharp\Langage-C-Csharp\SaveFileDialog\SaveFileDialog\obj\Debug\SaveFileDialog.csproj.AssemblyReference.cache
+D:\C-Sharp\Langage-C-Csharp\SaveFileDialog\SaveFileDialog\obj\Debug\SaveFileDialog.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\Langage-C-Csharp\SaveFileDialog\SaveFileDialog\obj\Debug\SaveFileDialog.Form1.resources
+D:\C-Sharp\Langage-C-Csharp\SaveFileDialog\SaveFileDialog\obj\Debug\SaveFileDialog.Properties.Resources.resources
+D:\C-Sharp\Langage-C-Csharp\SaveFileDialog\SaveFileDialog\obj\Debug\SaveFileDialog.csproj.GenerateResource.cache
+D:\C-Sharp\Langage-C-Csharp\SaveFileDialog\SaveFileDialog\obj\Debug\SaveFileDialog.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Langage-C-Csharp\SaveFileDialog\SaveFileDialog\obj\Debug\SaveFileDialog.exe
+D:\C-Sharp\Langage-C-Csharp\SaveFileDialog\SaveFileDialog\obj\Debug\SaveFileDialog.pdb
