@@ -31,5 +31,19 @@ namespace FontDialogue
                 MessageBox.Show(mafonte); 
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if(colorDialog1.ShowDialog() != DialogResult.Cancel)
+            {
+                //pour avoir la palette de couleur 
+
+                label1.ForeColor = colorDialog1.Color;
+                label1.BackColor = colorDialog1.Color;
+                MessageBox.Show(colorDialog1.Color.ToString());
+                button1.ForeColor = colorDialog1.Color; 
+                button2.ForeColor = colorDialog1.Color;
+            }
+        }
     }
 }
