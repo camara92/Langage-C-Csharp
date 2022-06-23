@@ -1,0 +1,11 @@
+D:\C-Sharp\Langage-C-Csharp\TPCHRONO\TPCHRONO\bin\Debug\TPCHRONO.exe.config
+D:\C-Sharp\Langage-C-Csharp\TPCHRONO\TPCHRONO\bin\Debug\TPCHRONO.exe
+D:\C-Sharp\Langage-C-Csharp\TPCHRONO\TPCHRONO\bin\Debug\TPCHRONO.pdb
+D:\C-Sharp\Langage-C-Csharp\TPCHRONO\TPCHRONO\obj\Debug\TPCHRONO.csproj.AssemblyReference.cache
+D:\C-Sharp\Langage-C-Csharp\TPCHRONO\TPCHRONO\obj\Debug\TPCHRONO.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\Langage-C-Csharp\TPCHRONO\TPCHRONO\obj\Debug\TPCHRONO.Form1.resources
+D:\C-Sharp\Langage-C-Csharp\TPCHRONO\TPCHRONO\obj\Debug\TPCHRONO.Properties.Resources.resources
+D:\C-Sharp\Langage-C-Csharp\TPCHRONO\TPCHRONO\obj\Debug\TPCHRONO.csproj.GenerateResource.cache
+D:\C-Sharp\Langage-C-Csharp\TPCHRONO\TPCHRONO\obj\Debug\TPCHRONO.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Langage-C-Csharp\TPCHRONO\TPCHRONO\obj\Debug\TPCHRONO.exe
+D:\C-Sharp\Langage-C-Csharp\TPCHRONO\TPCHRONO\obj\Debug\TPCHRONO.pdb
