@@ -1,0 +1,11 @@
+D:\C-Sharp\Langage-C-Csharp\Tootip\Tootip\bin\Debug\Tootip.exe.config
+D:\C-Sharp\Langage-C-Csharp\Tootip\Tootip\bin\Debug\Tootip.exe
+D:\C-Sharp\Langage-C-Csharp\Tootip\Tootip\bin\Debug\Tootip.pdb
+D:\C-Sharp\Langage-C-Csharp\Tootip\Tootip\obj\Debug\Tootip.csproj.AssemblyReference.cache
+D:\C-Sharp\Langage-C-Csharp\Tootip\Tootip\obj\Debug\Tootip.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\Langage-C-Csharp\Tootip\Tootip\obj\Debug\Tootip.Form1.resources
+D:\C-Sharp\Langage-C-Csharp\Tootip\Tootip\obj\Debug\Tootip.Properties.Resources.resources
+D:\C-Sharp\Langage-C-Csharp\Tootip\Tootip\obj\Debug\Tootip.csproj.GenerateResource.cache
+D:\C-Sharp\Langage-C-Csharp\Tootip\Tootip\obj\Debug\Tootip.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Langage-C-Csharp\Tootip\Tootip\obj\Debug\Tootip.exe
+D:\C-Sharp\Langage-C-Csharp\Tootip\Tootip\obj\Debug\Tootip.pdb
