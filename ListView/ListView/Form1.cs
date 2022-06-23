@@ -68,5 +68,10 @@ namespace ListView
         {
             listView1.Items.Remove(listView1.SelectedItems[0]); 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
