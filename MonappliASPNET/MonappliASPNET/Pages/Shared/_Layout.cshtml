@@ -1,0 +1,135 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Application web </title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MonappliASPNET.styles.css" asp-append-version="true" />
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm fixed-top navbar-toggleable-sm navbar-light bg-dark text-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand text-white" asp-area="" asp-page="/Index">Accueil</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon bg-light"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-page="/Index">Langages</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-page="/Index">Framework</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-page="/Index">Projets</a>
+                        </li>
+                        <!--<li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+                        </li>-->
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    
+    <footer class="text-center text-lg-start bg-dark text-muted">
+  <!-- Section: Social media -->
+  <section
+    class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom"
+  >
+    <!-- Left -->
+    <div class="me-5 d-lg-block container">
+      <span style="font-size: 1.5em;" class="pr-4 text-white">Retrouvez moi sur les reseaux :</span>
+      <a style="font-size: 2em;" class="pr-2" href="https://www.linkedin.com/in/camara-daouda-921136152/" class="me-4 text-reset">
+        <i class="fab fa-linkedin"></i>
+      </a>
+      <a style="font-size: 2em;" href="https://github.com/camara92" class="me-4 text-reset">
+        <i class="fab fa-github"></i>
+      </a>
+    </div>
+
+  </section>
+ 
+  <section class="">
+    <div class="container text-center text-md-start mt-5">
+      <!-- Grid row -->
+      <div class="row mt-3">
+        <!-- Grid column -->
+        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+          <!-- Content -->
+          <h6 class="text-danger text-uppercase fw-bold mb-4">
+            <i class="text-info fas fa-gem me-3"></i>|| PortFolio
+          </h6>
+          <p class=" text-white">
+            Comme vous pouvez voir au plus haut, je suis quand même en recherche d'une entreprise pour un stage ou de préférence apprentissage à compter du 20 juin 2022. Mobile partout en Frane. </p>
+        </div>
+
+        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+          <!-- Links -->
+          <h6 class="text-danger text-uppercase fw-bold mb-4">
+            Quelques projets 
+          </h6>
+          <p>
+            <a href="#" class="text-reset"><span class=" text-white">Angular | Ecommerce </span> </a>
+          </p>
+          <p>
+            <a href="#" class="text-reset"><span class=" text-white">Symfony | Ecommerce</span></a>
+          </p>
+          <p>
+            <a href="#" class="text-reset"><span class=" text-white">JScript | FromScratch</span></a>
+          </p>
+          <p>
+            <a href="#" class="text-reset"><span class=" text-white">YesCode | Symfony </span></a>
+          </p>
+        </div>
+        <!-- Grid column -->
+        <!-- Grid column -->
+        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+          <!-- Links -->
+          <h6 class="text-danger text-uppercase fw-bold mb-4">
+            Contact
+          </h6>
+
+          <!--<img src="{{asset('assets/images/daouda.jpeg')}}"  alt="daoua" width="90px" class="rounded-circle border border-success m-2" height="80px" >
+              -->
+          <p class="text-white"><i class="fas fa-home me-3"></i>Strasbourg || France</p>
+          <p>
+           <i class="fas fa-envelope"></i><a class="text-white" href="mailto:daoudasouleymanecamara8@gmail.com">| daouda8@gmail.com</a>
+          </p>
+          <p><i class="fas fa-phone me-3"></i><a href="tel:+337667438283"> | 0767438283</a></p>
+      
+        </div>
+        <!-- Grid column -->
+      </div>
+      <!-- Grid row -->
+    </div>
+  </section>
+  <!-- Section: Links  -->
+  <!-- Copyright -->
+  <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+    © 2022 Copyright: <span class=" text-white">CAMARA Daouda</span> 
+  </div>
+  <!-- Copyright -->
+</footer>
+
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

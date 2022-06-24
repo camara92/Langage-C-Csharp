@@ -1,0 +1,11 @@
+D:\C-Sharp\Langage-C-Csharp\BoiteDialog_ForlderBrowserDialog\BoiteDialog_ForlderBrowserDialog\bin\Debug\BoiteDialog_ForlderBrowserDialog.exe.config
+D:\C-Sharp\Langage-C-Csharp\BoiteDialog_ForlderBrowserDialog\BoiteDialog_ForlderBrowserDialog\bin\Debug\BoiteDialog_ForlderBrowserDialog.exe
+D:\C-Sharp\Langage-C-Csharp\BoiteDialog_ForlderBrowserDialog\BoiteDialog_ForlderBrowserDialog\bin\Debug\BoiteDialog_ForlderBrowserDialog.pdb
+D:\C-Sharp\Langage-C-Csharp\BoiteDialog_ForlderBrowserDialog\BoiteDialog_ForlderBrowserDialog\obj\Debug\BoiteDialog_ForlderBrowserDialog.csproj.AssemblyReference.cache
+D:\C-Sharp\Langage-C-Csharp\BoiteDialog_ForlderBrowserDialog\BoiteDialog_ForlderBrowserDialog\obj\Debug\BoiteDialog_ForlderBrowserDialog.csproj.SuggestedBindingRedirects.cache
+D:\C-Sharp\Langage-C-Csharp\BoiteDialog_ForlderBrowserDialog\BoiteDialog_ForlderBrowserDialog\obj\Debug\BoiteDialog_ForlderBrowserDialog.Form1.resources
+D:\C-Sharp\Langage-C-Csharp\BoiteDialog_ForlderBrowserDialog\BoiteDialog_ForlderBrowserDialog\obj\Debug\BoiteDialog_ForlderBrowserDialog.Properties.Resources.resources
+D:\C-Sharp\Langage-C-Csharp\BoiteDialog_ForlderBrowserDialog\BoiteDialog_ForlderBrowserDialog\obj\Debug\BoiteDialog_ForlderBrowserDialog.csproj.GenerateResource.cache
+D:\C-Sharp\Langage-C-Csharp\BoiteDialog_ForlderBrowserDialog\BoiteDialog_ForlderBrowserDialog\obj\Debug\BoiteDialog_ForlderBrowserDialog.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Langage-C-Csharp\BoiteDialog_ForlderBrowserDialog\BoiteDialog_ForlderBrowserDialog\obj\Debug\BoiteDialog_ForlderBrowserDialog.exe
+D:\C-Sharp\Langage-C-Csharp\BoiteDialog_ForlderBrowserDialog\BoiteDialog_ForlderBrowserDialog\obj\Debug\BoiteDialog_ForlderBrowserDialog.pdb
