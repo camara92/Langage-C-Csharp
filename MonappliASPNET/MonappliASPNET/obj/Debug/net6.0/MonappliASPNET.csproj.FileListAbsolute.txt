@@ -24,3 +24,4 @@ D:\C-Sharp\Langage-C-Csharp\MonappliASPNET\MonappliASPNET\obj\Debug\net6.0\refin
 D:\C-Sharp\Langage-C-Csharp\MonappliASPNET\MonappliASPNET\obj\Debug\net6.0\MonappliASPNET.pdb
 D:\C-Sharp\Langage-C-Csharp\MonappliASPNET\MonappliASPNET\obj\Debug\net6.0\MonappliASPNET.genruntimeconfig.cache
 D:\C-Sharp\Langage-C-Csharp\MonappliASPNET\MonappliASPNET\obj\Debug\net6.0\ref\MonappliASPNET.dll
+D:\C-Sharp\Langage-C-Csharp\MonappliASPNET\MonappliASPNET\bin\Debug\net6.0\libman.json
